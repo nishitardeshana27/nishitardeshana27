@@ -32,19 +32,6 @@ Welcome to my GitHub! I’m a passionate **React Developer** and final-year **BS
 
 ---
 
-## 🚀 Projects I’ve Built
-
-> Here are a few highlights from my journey:
-
-- 🔐 **Authentication Systems** – Email/password and Google login with protected routes  
-- 📦 **Full-stack Apps** – React + Express + MongoDB with admin & user panels  
-- 📈 **Digital Marketing Website** – With inquiry forms, dynamic dashboard, and email triggers  
-- 🛒 **E-commerce UI** – Cart logic, product filtering, and clean responsive layout
-
-🌐 More projects coming soon – always building, always learning!
-
----
-
 ## 📚 Currently Learning
 
 - 🧠 Advanced React Patterns
@@ -58,7 +45,7 @@ Welcome to my GitHub! I’m a passionate **React Developer** and final-year **BS
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/nishit-ardeshana)
 - 📷 **Instagram:** [@nishit_ardeshana](https://www.instagram.com/nishit_ardeshana)
-- 📧 **Email:** ardeshananishit@gmail.com
+- 📧 **Email:** nishitardeshana27@gmail.com
 
 ---
 
